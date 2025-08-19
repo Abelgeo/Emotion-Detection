@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+opencv-python
+flask
+flask-cors
+numpy
+pandas
+pillow
+fer  # Optional for pre-trained model
