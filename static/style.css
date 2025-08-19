@@ -1,0 +1,24 @@
+body {
+    background: #000;
+    color: #0ff; /* Cyan text */
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-shadow: 0 0 10px #f0f, 0 0 20px #f0f; /* Purple glow */
+}
+
+video {
+    border: 2px solid #f0f; /* Purple border */
+    box-shadow: 0 0 15px #f0f;
+    margin: 20px;
+}
+
+#emotion-display {
+    font-size: 24px;
+    text-shadow: 0 0 5px #ff0, 0 0 10px #ff0; /* Yellow glow */
+    margin-top: 20px;
+}
